@@ -1,11 +1,8 @@
 package com.erms.employee_management_system;
 
-import com.erms.employee_management_system.service.EmployeeService;
 import com.erms.employee_management_system.ui.LoginFrame;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
-import org.springframework.context.ApplicationContext;
-import com.erms.employee_management_system.service.AuthService;
 import org.springframework.context.ConfigurableApplicationContext;
 
 import javax.swing.*;
