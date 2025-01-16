@@ -52,7 +52,7 @@ employee-management-system/
    ```properties
    spring.datasource.url=jdbc:oracle:thin:@localhost:1521/XEPDB1
    spring.datasource.username=SYSTEM
-   spring.datasource.password=pass123
+   spring.datasource.password=p@ss123
    ```
 
 3. Build the project
